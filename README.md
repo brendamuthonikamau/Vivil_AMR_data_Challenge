@@ -26,6 +26,6 @@
 ## Discussion
  
 - [Team](#Team)
--Bonface Onyango
--Brenda Muthoni
--Felix Liso
+- Bonface Onyango
+- Brenda Muthoni
+- Felix Liso
