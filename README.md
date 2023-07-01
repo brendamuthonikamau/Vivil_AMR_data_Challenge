@@ -19,7 +19,7 @@
 
 ## Methods
 
-![workflow](https://user-images.githubusercontent.com/85281618/187748105-0eb4dc8d-e950-405f-84cf-4a6ac3660537.png)
+![workflow](https://github.com/brendamuthonikamau/Vivil_AMR_data_Challenge/blob/main/amr_workflow.png)
 
 ## Results
 
