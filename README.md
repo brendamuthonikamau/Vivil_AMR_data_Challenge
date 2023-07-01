@@ -1,7 +1,4 @@
-# Vivil_AMR_data_Challenge
-Antimicrobial resistance data challenge
-
-# Antelope Phylogenetics Mini project
+# Antimicrobial resistance  Vivli data challenge
 
 ## Table of Contents
 - [Introduction](#Introduction)
